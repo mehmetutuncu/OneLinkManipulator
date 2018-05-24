@@ -2,12 +2,12 @@
 One Link Manipulator Arduino Project<br>
 One link manipulator projesinin amacı servo motorun ucuna takılan cismi belirlenen yöne doğru çevirerek cismin titreşmesi sağlanır. Ardından ivme sensörü ile titreşim ölçülüp seri port okuma yardımı ile excele aktarılır. Excele aktarılan anlık ivme değerleri ile cismin titreşim grafiği çizdirilir.<br>
 # Malzemeler
-Servo Motor
-Platform
-Titreştirilecek cismi tutmak için aparat -> Servo motorun dişlisine eklenecek.
-Arduino Uno
-MPU-6050 İvme Sensörü
-Board,Jumper Kablo vs.
+Servo Motor<br>
+Platform<br>
+Titreştirilecek cismi tutmak için aparat -> Servo motorun dişlisine eklenecek.<br>
+Arduino Uno<br>
+MPU-6050 İvme Sensörü<br>
+Board,Jumper Kablo vs.<br>
 # Kullanım 
 Arduino , MPU6050 ve Servo Motor bağlantı şeması internette mevcuttur.
 Kurulumu yaptıktan sonra PLX-DAQ2.xml dosyasını çalıştırıp makroya izin ver seçeneğini tıklıyoruz. 
